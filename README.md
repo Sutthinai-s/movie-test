@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# ใช้ react ทำครับ
+# -สามารถติดตั้ง npm i ตามปกติ
+# -แล้ว npm start ได้เลยครับ
+# ทำมาแค่ข้อ 2 ครับ ซึ่งไม่ได้ทำในส่วนของ pop-up ตอนกดสั่งซื้อ กับเก็บค่า Local ครับ
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
